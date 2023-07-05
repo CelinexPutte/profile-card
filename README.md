@@ -22,13 +22,13 @@ De volgende gegevens van mij zijn te vinden:
   <li>Contactgegevens</li>
 </ul>
 
-Desktop:
+**Desktop:**
 
-<img src="https://user-images.githubusercontent.com/112859814/219973995-e7fee4fe-98cd-4cff-837d-9b48085c858e.png" alt="Desktop" width=100%>
+<img src="https://github.com/CelinexPutte/profile-card/assets/112859814/41928761-4f15-407c-8f55-96d2963a09b0" alt="" width=100%>
 
-Mobiel:
+**Mobiel:**
 
-<img src="https://user-images.githubusercontent.com/112859814/219973998-663a2a67-440d-400b-abc8-39ecdb04043f.png" alt="Mobiel deel 1" width=25%> <img src="https://user-images.githubusercontent.com/112859814/219974002-dc93aa6d-f943-4e18-999a-064224cdebd0.png" alt="Mobiel deel 2" width=25%>
+<img src="https://github.com/CelinexPutte/profile-card/assets/112859814/f2e9cb97-2ada-4c9b-8fe7-b6bf80fc2caa" alt="Mobiel deel 1" width=25%> <img src="https://github.com/CelinexPutte/profile-card/assets/112859814/96fc457c-ab84-4fe2-a86a-819f79b2c152" alt="" width=25%>
 
 Mijn visitekaartje vind je [hier](https://celinexputte.github.io/profile-card/).
 
